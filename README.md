@@ -1,8 +1,6 @@
 # Autonomous Coding Agent
 
-[QualityMax ecosystem](https://github.com/Quality-Max/qualitymax) · [Testing documentation](https://docs.qualitymax.io/)
-
-This is a separate sandbox coding-agent example. Its demo and provider prerequisites are documented below; it is not the hosted QualityMax platform source. Sandbox and model usage may incur provider charges.
+Built by **Furqan**
 
 An autonomous coding agent that clones a repository, plans a task, and implements it inside an isolated cloud sandbox — with a streaming Next.js frontend that shows every command, file edit, and thought in real time.
 
@@ -12,7 +10,7 @@ Think Codex, Jules, or Devin: give it a repo URL and a task description, watch i
 
 ![Autonomous Coding Agent cloning its own repository, planning, running commands, and describing itself](docs/demo.gif)
 
-_Pointed at its own repo: it clones the code into a cloud sandbox, lays out a plan, runs commands, reads the source, and streams a description back — live._ [Watch the full-quality MP4](docs/demo.mp4) · try it yourself on the **[live demo](https://autonomous-coding-agent-five.vercel.app)** (bring your own keys).
+_Pointed at its own repo: it clones the code into a cloud sandbox, lays out a plan, runs commands, reads the source, and streams a description back — live._ [Watch the full-quality MP4](docs/demo.mp4) · try it yourself on the **[live demo](https://horizon-eight-theta.vercel.app/)** (bring your own keys).
 
 ## Features
 
@@ -137,7 +135,7 @@ The suite is deterministic and needs no credentials:
 
 ## Live demo (bring your own key)
 
-**▶ Try it: https://autonomous-coding-agent-five.vercel.app**
+**▶ Try it: https://horizon-eight-theta.vercel.app/**
 
 This app is **BYOK**: every API call can carry the visitor's own keys, supplied through the
 **Keys** panel in the header (E2B + at least one LLM provider). They're stored only in the
@@ -180,4 +178,4 @@ rather than opening a public issue.
 
 ## License
 
-[MIT](LICENSE) © QualityMax (Ruslan Strazhnyk)
+[MIT](LICENSE) © Furqan

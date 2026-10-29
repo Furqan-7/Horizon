@@ -4,11 +4,11 @@
   "private": true,
   "description": "Autonomous coding agent that clones a repo, plans a task, and implements it inside an isolated cloud sandbox, with a streaming Next.js frontend.",
   "license": "MIT",
-  "author": "Ruslan Strazhnyk (QualityMax)",
-  "homepage": "https://github.com/Quality-Max/autonomous-coding-agent#readme",
+  "author": "Furqan",
+  "homepage": "https://github.com/Furqan-7/Horizon#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Quality-Max/autonomous-coding-agent.git"
+    "url": "https://github.com/Furqan-7/Horizon.git"
   },
   "keywords": [
     "ai-agent",
